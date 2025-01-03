@@ -11,7 +11,7 @@ class PostsController < ApplicationController
   def show
     @comments = @post.comments.order(create_at: :desc)
     @comment =Comment.new
-    
+    @comments = @post.comments.order('created_at DESC')
   end
 
   # GET /posts/new
