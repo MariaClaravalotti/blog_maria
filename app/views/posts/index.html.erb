@@ -1,0 +1,20 @@
+
+<% @posts.each do |post| %>
+  <%= render post %>
+<% end %>
+
+<hr>
+ 
+
+<div class="pagination">
+  <%= paginate @posts %>
+</div>
+ 
+ <div class='text-right text-center'>
+   <%= link_to 'Criar novo post', new_post_path, class: 'btn btn-success',method: :post, data: { disable_with: "Criando..." } %>
+
+   
+
+
+ </div>
+ 
