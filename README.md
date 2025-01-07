@@ -88,7 +88,7 @@ echo 'eval "$(rbenv init - bash)"' >> ~/.bashrc
 source ~/.bashrc
 
 ### Instala Ruby 3.3.6 com rbenv
-# ESSE PASSO DEMORA A SER CONCLUIDO (5 a 10 minutos)
+ESSE PASSO DEMORA A SER CONCLUIDO (5 a 10 minutos)
 rbenv install 3.3.6
 rbenv global 3.3.6
 
