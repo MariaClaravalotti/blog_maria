@@ -42,8 +42,6 @@ Rails s
 - Substitua o nome do projeto, link do repositório, e tecnologias específicas conforme necessário.
 - Adicione detalhes exclusivos, como capturas de tela ou links úteis.
 
-Se precisar de algo mais específico, avise! 😊
-
 
 # ⚙️ Configuração e Deploy na AWS EC2
 
