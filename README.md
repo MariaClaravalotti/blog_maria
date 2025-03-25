@@ -125,3 +125,6 @@ exit
 
 ### Acessar a pagina no Browser
 http://ip-da-sua-instancia:3000
+
+![image](https://github.com/user-attachments/assets/4df8e5dc-8fcd-41c6-8ed2-b4c76c74be7f)
+
